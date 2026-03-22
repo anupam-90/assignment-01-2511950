@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "PROD-E-001",
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 24999,
+    "specs": {
+      "warranty_months": 24,
+      "voltage": "5V",
+      "battery_life_hours": 30
+    },
+    "tags": ["audio", "wireless", "bluetooth"]
+  },
+  {
+    "product_id": "PROD-C-001",
+    "name": "Men's Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 899,
+    "variants": [
+      {"size": "M", "color": "Blue", "stock": 50},
+      {"size": "L", "color": "Blue", "stock": 20},
+      {"size": "L", "color": "Black", "stock": 15}
+    ],
+    "care_instructions": "Machine wash cold"
+  },
+  {
+    "product_id": "PROD-G-001",
+    "name": "Organic Almond Milk 1L",
+    "category": "Groceries",
+    "price": 350,
+    "expiry_date": "2024-11-15",
+    "nutritional_info": {
+      "calories_per_100ml": 40,
+      "sugar_g": 0,
+      "vegan": true
+    }
+  }
+]
